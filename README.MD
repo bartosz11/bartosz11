@@ -8,4 +8,4 @@ My main tools are IntellIJ IDEA Community and Visual Studio Code. <br/>
 ![My stats](https://github-readme-stats.vercel.app/api?username=bartosz11&show_icons=true&theme=dark)
 
 ## 📨 Contact
-You can contact me on Discord: Bartosz1#9385.
+You can contact me on Discord: Bartosz1#9385. ([My server](https://discord.gg/FcFebUD9wG))
