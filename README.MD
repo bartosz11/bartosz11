@@ -1,7 +1,7 @@
 ## 👋 Hi!
 I'm Bartosz, some random GitHub user coding some random stuff. <br/>
 At the moment i know some HTML, CSS, JS, Java, Docker, batch and bash. <br/>
-I'm currently learning Svelte, planning to learn Rust. <br/>
+I'm currently learning Svelte, planning to learn C#. <br/>
 My main tools are IntellIJ IDEA Community and Visual Studio Code. <br/>
 
 ## 📨 Contact
