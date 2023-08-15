@@ -5,7 +5,9 @@ I'm currently learning Svelte, planning to learn C#. <br/>
 My main tools are IntellIJ IDEA Community and Visual Studio Code. <br/>
 
 ## 📨 Contact
-You can contact me on Discord: Bartosz1#9385. ([My server](https://discord.gg/FcFebUD9wG))
+You can contact me via:
+- Discord: bartosz1. ([My server](https://discord.gg/FcFebUD9wG))
+- Email: [contact@bartosz.one](mailto:contact@bartosz.one)
 
 ## 📊 Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bartosz11&show_icons=true&theme=dark)
