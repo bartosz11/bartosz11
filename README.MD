@@ -1,12 +1,12 @@
 ## 👋 Hi!
-I'm Bartosz, some random GitHub user coding some random stuff. <br/>
-At the moment i know some HTML, CSS, JS, Java, Docker, batch and bash. <br/>
-I'm currently learning Svelte, planning to learn C#. <br/>
-My main tools are IntellIJ IDEA Community and Visual Studio Code. <br/>
+I'm Bartosz, some random GitHub user coding some random stuff.  
+At the moment i know some HTML, CSS, JS, Java, Docker, batch and bash.  
+I'm currently learning Svelte, planning to learn C#.   
+My main tools are IntellIJ IDEA Community and Visual Studio Code.   
 
 ## 📨 Contact
 You can contact me via:
-- Discord: bartosz1. ([My server](https://discord.gg/FcFebUD9wG))
+- Discord: bartosz1 ([My server](https://discord.gg/FcFebUD9wG))
 - Email: [contact@bartosz.one](mailto:contact@bartosz.one)
 
 ## 📊 Stats
